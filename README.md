@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-dupin-715853197/)](https://www.linkedin.com/in/gustavo-dupin-715853197/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guusilveira@gmail.com)](mailto:guusilveira@gmail.com)
-![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511947085393&text=Olá!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511947085393&text=Olá!)](https://api.whatsapp.com/send?phone=5511947085393&text=Olá!)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/iamgriffon/)](https://github.com/iamgriffon/)
 
 
@@ -41,10 +41,11 @@ Deploy & Cloud:
 
 
 ## My landmarks 📌:
-- [X] Commited at least once every day for a week
-- [X] Created a portfolio with at least 3 projects
-- [X] Grew a secret crush on Python while mastering Javascript
+- [X] Commited at least once every day for a week.
+- [X] Created a portfolio with at least 3 projects.
+- [X] Grew a secret crush on Python while mastering Javascript.
 - [X] Lost the Game, and so did you.
-- [ ] Deployed a basic Heroku project without facing any errors
-- [ ] Became the next Neil Peart
+- [X] Deployed a basic Heroku project without facing any errors.
+- [ ] Become the next Neil Peart.
+- [ ] World Domination.
 
