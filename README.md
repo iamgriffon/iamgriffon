@@ -18,7 +18,7 @@
 
 
 
-### Techs & Skills:
+## Techs & Skills:
 Front-end:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/iamgriffon/)](https://github.com/iamgriffon/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/iamgriffon/)](https://github.com/iamgriffon/)
@@ -40,7 +40,7 @@ Deploy & Cloud:
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/iamgriffon/)](https://github.com/iamgriffon/)
 
 
-### My landmarks 📌:
+## My landmarks 📌:
 - [X] Commited at least once every day for a week
 - [X] Created a portfolio with at least 3 projects
 - [X] Grew a secret crush on Python while mastering Javascript
