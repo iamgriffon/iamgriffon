@@ -45,6 +45,6 @@ Deploy & Cloud:
 - [X] Grew a secret crush on Python while mastering Javascript.
 - [X] Lost the Game, and so did you.
 - [X] Deployed a basic Heroku project without facing any errors.
-- [ ] Become the next Neil Peart.
+- [ ] Became the next Neil Peart.
 - [ ] World Domination.
 
