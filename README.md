@@ -41,7 +41,6 @@ Deploy & Cloud:
 
 
 ## My landmarks 📌:
-- [X] Commited at least once every day for a week.
 - [X] Created a portfolio with at least 3 projects.
 - [X] Grew a secret crush on Python while mastering Javascript.
 - [X] Lost the Game, and so did you.
