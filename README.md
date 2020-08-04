@@ -7,7 +7,7 @@
 
 
 
-####            Hi, there :wave: , my name is Gustavo Dupin and I'm a Javascript FullStack developer, with emphasis on Front End. and also:
+####            Hi, there :wave: , my name is Gustavo Dupin and I'm a Javascript/TypeScript FullStack Web Developer. and also:
 * IT and Programming is my life 💻
 * Javascript/Typescript enthusiast 💙
 * Currently Studying React.js, React Native and TypeScript 📚
