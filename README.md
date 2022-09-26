@@ -25,7 +25,9 @@ Front-end:
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/iamgriffon/)](https://github.com/iamgriffon/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/iamgriffon/)](https://github.com/iamgriffon/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/iamgriffon/)](https://github.com/iamgriffon/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/iamgriffon/)](https://github.com/iamgriffon/)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 Back-end:
@@ -38,6 +40,7 @@ Back-end:
 
 Deploy & Cloud:
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/iamgriffon/)](https://github.com/iamgriffon/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&link=https://github.com/iamgriffon/)](https://github.com/iamgriffon/)
 
 
 ## My landmarks 📌:
@@ -45,6 +48,7 @@ Deploy & Cloud:
 - [X] Grew a secret crush on Python while mastering Javascript.
 - [X] Lost the Game, and so did you.
 - [X] Deployed a basic Heroku project without facing any errors.
+- [X] Replace Heroku (R.I.P) with Vercel as the standard deploy platform
 - [ ] Became the next Neil Peart.
 - [ ] World Domination.
 
