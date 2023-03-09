@@ -48,7 +48,8 @@ Deploy & Cloud:
 - [X] Grew a secret crush on Python while mastering Javascript.
 - [X] Lost the Game, and so did you.
 - [X] Deployed a basic Heroku project without facing any errors.
-- [X] Replace Heroku (R.I.P) with Vercel as the standard deploy platform
+- [X] Replaced Heroku (R.I.P) with Vercel as the standard deploy platform
+- [X] Deployed a FullStack Application using AWS to host the Databse.
 - [ ] Became the next Neil Peart.
 - [ ] World Domination.
 
