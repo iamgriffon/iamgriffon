@@ -46,10 +46,11 @@ Deploy & Cloud:
 ## My landmarks 📌:
 - [X] Created a portfolio with at least 3 projects.
 - [X] Grew a secret crush on Python while mastering Javascript.
+- [X] Grew a secret crush on Java/C# while mastering TypeScript.
 - [X] Lost the Game, and so did you.
 - [X] Deployed a basic Heroku project without facing any errors.
 - [X] Replaced Heroku (R.I.P) with Vercel as the standard deploy platform
-- [X] Deployed a FullStack Application using AWS to host the Databse.
+- [X] Deployed a Full-stack Web Application using AWS to host the Database.
 - [ ] Became the next Neil Peart.
 - [ ] World Domination.
 
