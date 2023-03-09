@@ -14,7 +14,7 @@
 * My portfolio: [CLICK HERE](https://iamgriffon.netlify.app/ "Gustavo Dupin | Web Developer") ✅ - kinda outdated ngl
 * Drummer Aspirant 🎶🥁
 * eSports Lover 🎮
-* Sometimes building, often comitting, every day coding
+* No, I don't deploy on fridays. 🤝🏿
 
 
 
