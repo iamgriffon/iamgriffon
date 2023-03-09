@@ -10,8 +10,8 @@
 ####            Hi, there :wave: , my name is Gustavo Dupin and I'm a Javascript/TypeScript FullStack Web Developer. and also:
 * IT and Programming is my life 💻
 * Javascript/Typescript enthusiast 💙
-* Currently Studying React.js, React Native and TypeScript 📚
-* My portfolio: [CLICK HERE](https://iamgriffon.netlify.app/ "Gustavo Dupin | Web Developer") ✅
+* Currently Studying Next.js, Node.js and MySQL 📚
+* My portfolio: [CLICK HERE](https://iamgriffon.netlify.app/ "Gustavo Dupin | Web Developer") ✅ - kinda outdated ngl
 * Drummer Aspirant 🎶🥁
 * eSports Lover 🎮
 * Sometimes building, often comitting, every day coding
