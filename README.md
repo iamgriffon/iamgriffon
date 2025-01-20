@@ -1,4 +1,4 @@
-## 👨🏿‍💻 Gustavo Dupin, Dev@WebHub
+## 👨🏿‍💻 Gustavo Dupin, Dev@Órulo
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-dupin-715853197/)](https://www.linkedin.com/in/gustavo-dupin-715853197/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guusilveira@gmail.com)](mailto:guusilveira@gmail.com)
@@ -13,7 +13,7 @@
 * My portfolio: [CLICK HERE](https://iamgriffon.netlify.app/ "Gustavo Dupin | Web Developer") ✅ - kinda outdated ngl
 * Drummer Aspirant 🎶🥁
 * eSports Lover 🎮
-* I'd
+* I play and love Alliance but Orgrimmar is just better.
 
 
 
