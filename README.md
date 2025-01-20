@@ -8,13 +8,12 @@
 
 
 ####            Hi, there :wave: , my name is Gustavo Dupin and I'm a Javascript/TypeScript FullStack Web Developer. and also:
-* IT and Programming is my life 💻
-* Javascript/Typescript enthusiast 💙
-* Currently Studying Next.js, Node.js and MySQL 📚
+* JavaScript pays the bills, TypeScript makes me smarter (I guess)
+* I dream of being a game dev one day.
 * My portfolio: [CLICK HERE](https://iamgriffon.netlify.app/ "Gustavo Dupin | Web Developer") ✅ - kinda outdated ngl
 * Drummer Aspirant 🎶🥁
 * eSports Lover 🎮
-* No, I don't deploy on fridays. 🤝🏿
+* I'd
 
 
 
@@ -22,9 +21,6 @@
 Front-end:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/iamgriffon/)](https://github.com/iamgriffon/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/iamgriffon/)](https://github.com/iamgriffon/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/iamgriffon/)](https://github.com/iamgriffon/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/iamgriffon/)](https://github.com/iamgriffon/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/iamgriffon/)](https://github.com/iamgriffon/)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
