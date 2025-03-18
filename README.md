@@ -10,7 +10,7 @@
 ####            Hi, there :wave: , my name is Gustavo Dupin and I'm a Javascript/TypeScript FullStack Web Developer. and also:
 * JavaScript pays the bills, TypeScript makes me smarter (I guess)
 * I dream of being a game dev one day.
-* My portfolio: [CLICK HERE](https://iamgriffon.netlify.app/ "Gustavo Dupin | Web Developer") ✅ - kinda outdated ngl
+* My portfolio: [CLICK HERE](https://gdupin-porfolio.vercel.app/en/) ✅ - RENEWED FOR 2025
 * Drummer Aspirant 🎶🥁
 * eSports Lover 🎮
 * I play and love Alliance but Orgrimmar is just better.
@@ -40,12 +40,15 @@ Deploy & Cloud:
 
 
 ## My landmarks 📌:
-- [X] Created a portfolio with at least 3 projects.
-- [X] Grew a secret crush on Python while mastering Javascript.
+- [X] Got converted to TDD.
+- [X] Got skill issued by a typo variable that took me 2+ hours to find it
+- [X] Broke prod.
+- [X] Deployed on friday and lived to tell the story.
+- [X] Stopped commiting directly to main unless it's TRULY necessary. 
 - [X] Grew a secret crush on Java/C# while mastering TypeScript.
 - [X] Lost the Game, and so did you.
-- [X] Deployed a basic Heroku project without facing any errors.
-- [X] Replaced Heroku (R.I.P) with Vercel as the standard deploy platform
+- [X] Got a surpised hundred+ dollar bill from overusing Claude
+- [X] Implemented a design system project from scratch
 - [X] Deployed a Full-stack Web Application using AWS to host the Database.
 - [ ] Became the next Neil Peart.
 - [ ] World Domination.
