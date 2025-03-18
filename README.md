@@ -49,7 +49,8 @@ Deploy & Cloud:
 - [X] Lost the Game, and so did you.
 - [X] Got a surpised hundred+ dollar bill from overusing Claude
 - [X] Implemented a design system project from scratch
-- [X] Deployed a Full-stack Web Application using AWS to host the Database.
+- [X] Went from self-hosted to Cloud
+- [X] Went from Cloud to self-hosted
 - [ ] Became the next Neil Peart.
 - [ ] World Domination.
 
